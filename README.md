@@ -1,10 +1,9 @@
-- 👋 Hi, I’m @carloschir
-- 👀 I’m interested in code
-- 🌱 I’m currently learning code
-- 💞️ I’m looking to collaborate on code
-- 📫 How to reach me code
+- 👋 Hi, I’m @carloschir, nice to meetya
+- 👀 I’m interested in information tecnology!
+- 🌱 I’m currently learning code in HTML, CSS, JavaScript and libraries, and some C for Arduino.
+- 📫 Looking forward to connect to web devs and game devs!
 
 <!---
-carloschir/carloschir is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
+LinkedIn Profile: DONE!
+CV: MUST DO!
 --->
